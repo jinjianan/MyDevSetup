@@ -1,0 +1,11 @@
+#git ignore for java project
+
+# idea project
+.idea
+*.iml
+
+# java
+*.class
+
+# maven
+*/target
